@@ -1,0 +1,12 @@
+Classroom photo attribution
+
+Title: Professor and students in a university classroom in Tennessee
+Author: Harrison Keely
+Source: https://commons.wikimedia.org/wiki/File:Professor_and_students_in_a_university_classroom_in_Tennessee.jpg
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/
+
+The face-detection demo output is an adaptation with face-count text and
+Haar-cascade detection boxes added. The detector found four candidate faces
+in this image; this is an approximate count, not identification or attendance
+verification.

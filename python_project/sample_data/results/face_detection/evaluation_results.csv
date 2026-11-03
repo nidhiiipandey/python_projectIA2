@@ -1,0 +1,11 @@
+image,actual_faces,detected_faces,errors,accuracy_percent
+class-room-picture1.jpg,7,7,0,100
+class-room-picture2.jpg,3,3,0,100
+class-room-picture3.avif,5,5,0,100
+class-room-picture4.jpg,6,6,0,100
+class-room-picture5.avif,6,6,0,100
+class-room-picture6.jpg,8,8,0,100
+class-room-picture7.jpg,3,3,0,100
+class-room-picture8.jpg,4,4,0,100
+class-room-picture9.jpg,1,1,0,100
+class-room-picture10.jpg,6,6,0,100

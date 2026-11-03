@@ -1,0 +1,11 @@
+image,detected_faces,detector,annotated_image
+class-room-picture1.jpg,7,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture1_detected.jpg
+class-room-picture2.jpg,3,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture2_detected.jpg
+class-room-picture3.avif,5,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture3_detected.jpg
+class-room-picture4.jpg,6,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture4_detected.jpg
+class-room-picture5.avif,6,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture5_detected.jpg
+class-room-picture6.jpg,8,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture6_detected.jpg
+class-room-picture7.jpg,3,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture7_detected.jpg
+class-room-picture8.jpg,4,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture8_detected.jpg
+class-room-picture9.jpg,1,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture9_detected.jpg
+class-room-picture10.jpg,6,"YuNet ONNX, score threshold 0.85",sample_data\results\latest_run\face_detection\class-room-picture10_detected.jpg
